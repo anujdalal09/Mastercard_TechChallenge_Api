@@ -1,0 +1,6 @@
+account:
+  currency-conversion-api-config:
+    consumerKey: "oMJgVUYOyKRRFpA7GywWzHCSzmoUyYrFTLVSeVP7c3250249!a7ad6990dbcc4556b117b1bfe94178530000000000000000"
+    keyAlias: "keyalias"
+    keyPassword: "keystorepassword"
+    privateKeyPath: "C:\\Users\\adalal\\Downloads\\currency-conversion-sandbox.p12"
